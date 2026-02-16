@@ -1,0 +1,33 @@
+@keyframes blinkWhite {
+  0%, 100% {
+    background-color: #f5bf5e;
+    color: #050303;
+  }
+  50% {
+    background-color: #ffffff;
+    color: #000;
+  }
+}
+
+.handImageWrapper {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  z-index: 10;
+  max-width: 300px;
+  width: 40vw;
+}
+
+.handImage {
+  width: 100%;
+  height: auto;
+}
+.walletAddress {
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  color: #f5bf5e; /* golden */
+  margin-top: 1rem;
+  text-align: center;
+  word-break: break-word;
+}
