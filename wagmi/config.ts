@@ -10,8 +10,8 @@ export const config = createConfig({
       metadata: {
         name: 'BRL Dapp',
         description: 'BRL Staking',
-        url: 'https://bullrunstake.online/',
-        icons: ['https://bullrunstake.online/favicon.ico']
+        url: 'https://pumptokens.fun/',
+        icons: ['https://pumptokens.fun/favicon.ico']
       }
     })
   ],
